@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(236, 233, 229);
+}
+img {
+    display: flex;
+    margin: 0px auto;
+}
+p {
+    margin: 16px 0px;
+    padding: 0px;
+}
+li {
+    margin: 16px 0px;
+    padding: 0px;
+}
+#Home {
+  text-align: center;
+  margin: 10px;
+}
+#Home a {
+  color: rgb(153, 109, 7);
+  text-decoration: none;
+  background-color: bisque;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 8px 8px;
+  box-sizing: border-box;
+}
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(227, 194, 145);
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.backgroundcontent {
+    background-color: rgb(227, 194, 145);
+    padding: 24px;
+    margin: 0px 12px;
+    border-radius: 10px;
+}
